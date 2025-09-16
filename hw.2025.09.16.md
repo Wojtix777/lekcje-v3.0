@@ -1,4 +1,5 @@
 Powstanie stanów zjednoczonych, przyczyny, przebieg i skutki
 
 
-rok 1978 w polsce i czechosłowacji
+
+Polska znajdowała się w okresie rządów Edwarda Gierka. Nadal trwał czas propagandowego optymizmu, ale gospodarka zaczynała już odczuwać skutki zadłużenia zagranicznego, co spowidiwało niezadowolenie, ponieważ spadały realne dochody, jak również przez komunę zaczynały się braki na rynku. W maju 1978 r. powstał Komitet Obrony Robotników (KOR) w nowej formie działalności, przekształcający się w Komitet Samoobrony Społecznej „KOR”, co było ważnym etapem w budowie opozycji demokratycznej. W październiku 1978 r. miało miejsce wydarzenie przełomowe, czyli wybór kardynała Karola Wojtyły na papieża Jana Pawła II (16 października), co wstrząsnęło światem i dało Polakom poczucie siły i nadziei. W Czechosłowacji, kraj pozostawał pod ścisłą kontrolą władz komunistycznych po stłumieniu Praskiej Wiosny (1968). Trwał okres tzw. normalizacji, kierowany przez Gustáva Husáka. Władze konsekwentnie zwalczały opozycję i ruchy dysydenckie. Represje dotykały zwłaszcza sygnatariuszy Karty 77, którzy domagali się przestrzegania praw człowieka. Gospodarka rozwijała się powoli, w stagnacyjnym modelu gospodarki planowej. Społeczeństwo żyło w warunkach cenzury, braku swobód obywatelskich i ograniczonych kontaktów ze światem Zachodu.
