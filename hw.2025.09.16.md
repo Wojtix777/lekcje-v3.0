@@ -1,5 +1,10 @@
-Powstanie stanów zjednoczonych, przyczyny, przebieg i skutki
+Historia
 
+Przyczyną powstania ameryki były między innymi nasilone konflikty między koloniami brytyjskimi w ameryce a brytanią, podwyższenie podatków i cła na wiele rzeczy bez zgody kolonialistów, brak reprezentacji w parlamencid brytyjskim jak I ograniczenia w handlu i rozwoju kolonii.
+Powstanie ameryki trwało przez wiele lat, zaczynając się w 1775 roku walkami. W 1776, została podpisana Deklaracje Niepodległości, która służy jako podstawa ameryki w obecnych latach. W tym czasie wybuchały różne walki kolonistów, wspieranych przez wszelkie kraje przeciwko siłom brytanii. W 1781, brytyjczycy kapitowali pod Yorktown, a w 1783 podczas pokoju w paryżu uznali niepodległość ameryki.
+Skutkami było powstanie de facto pierwszej nowoczesnej republiki, przyjęcie konstytucji i karty praw jak i również osłabienie mocy Wielkien Brytanii oraz inspiracja innych ruchów rewolucyjnych.
+Powstanie Stanów Zjednoczonych Ameryki jako pierwszej nowoczesnej republiki
 
+HIT
 
 Polska znajdowała się w okresie rządów Edwarda Gierka. Nadal trwał czas propagandowego optymizmu, ale gospodarka zaczynała już odczuwać skutki zadłużenia zagranicznego, co spowidiwało niezadowolenie, ponieważ spadały realne dochody, jak również przez komunę zaczynały się braki na rynku. W maju 1978 r. powstał Komitet Obrony Robotników (KOR) w nowej formie działalności, przekształcający się w Komitet Samoobrony Społecznej „KOR”, co było ważnym etapem w budowie opozycji demokratycznej. W październiku 1978 r. miało miejsce wydarzenie przełomowe, czyli wybór kardynała Karola Wojtyły na papieża Jana Pawła II (16 października), co wstrząsnęło światem i dało Polakom poczucie siły i nadziei. W Czechosłowacji, kraj pozostawał pod ścisłą kontrolą władz komunistycznych po stłumieniu Praskiej Wiosny (1968). Trwał okres tzw. normalizacji, kierowany przez Gustáva Husáka. Władze konsekwentnie zwalczały opozycję i ruchy dysydenckie. Represje dotykały zwłaszcza sygnatariuszy Karty 77, którzy domagali się przestrzegania praw człowieka. Gospodarka rozwijała się powoli, w stagnacyjnym modelu gospodarki planowej. Społeczeństwo żyło w warunkach cenzury, braku swobód obywatelskich i ograniczonych kontaktów ze światem Zachodu.
