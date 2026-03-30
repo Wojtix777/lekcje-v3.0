@@ -6,3 +6,6 @@
 - publisher VARCHAR(32) NOT NULL
 - cena INT NOT NULL
 ## Przeceny 
+- id_przeceny INT PRIMARY KEY AUTO_INCREMENT
+- nazwa VARCHAR(32) UNIQUE NOT NULL
+- 
