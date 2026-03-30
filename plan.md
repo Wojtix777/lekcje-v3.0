@@ -1,1 +1,8 @@
-
+# Steamworks
+## Gry
+- id_gry INT PRIMARY KEY AUTO_INCREMENT
+- nazwa VARCHAR(32) UNIQUE NOT NULL
+- producent VARCHAR(32) NOT NULL
+- publisher VARCHAR(32) NOT NULL
+- cena INT NOT NULL
+## Przeceny 
